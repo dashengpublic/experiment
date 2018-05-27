@@ -1,2 +1,0 @@
-﻿cd /root/experiment/jupyter
-jupyter notebook --allow-root
